@@ -1,12 +1,12 @@
-result field displays the actual result
-result field's default value is 0
+<!-- result field displays the actual result
+result field's default value is 0 -->
 
-number buttons are those that have value from 0 through 9
+<!-- number buttons are those that have value from 0 through 9
 
 rest are functional buttons, which can further be split into:
 	operations (+, -, *, /)
 	equal sign
-	C
+	C -->
 
 when the user presses number button - we append its value to the result field
 
